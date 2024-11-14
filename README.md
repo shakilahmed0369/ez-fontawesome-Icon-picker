@@ -22,13 +22,6 @@ Include the following links in your HTML file to load Fontawesome Icons and EZ I
 
 <!-- Fontawesome JavaScript -->
 <script src="https://kit.fontawesome.com/38f33a5e76.js" crossorigin="anonymous"></script>
-```
-
-### Load EZ Icon Picker JavaScript
-
-Add the following to load EZ Icon Picker:
-
-```html
 <!-- EZ Icon Picker JavaScript -->
 <script src="/dist/ez-icon-picker.min.js" type="module"></script>
 ```
